@@ -1,0 +1,20 @@
+# Folders
+uploads/
+uploads/*
+!uploads/.gitkeep
+
+# Secrets / local config
+.db.php
+.env
+
+db.php
+
+# Dependencies
+vendor/
+node_modules/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
